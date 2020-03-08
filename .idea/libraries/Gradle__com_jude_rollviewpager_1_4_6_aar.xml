@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jude:rollviewpager:1.4.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/366059d5bf070ef36b7b49a947524045/rollviewpager-1.4.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/366059d5bf070ef36b7b49a947524045/rollviewpager-1.4.6/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jude/rollviewpager/1.4.6/426de7ee4ba26c6c7056ffbd0fa20ba93aa65fbb/rollviewpager-1.4.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jude/rollviewpager/1.4.6/fd32c416214bfc0fcbe2c069194d2adadcd6cb97/rollviewpager-1.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
